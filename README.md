@@ -8,9 +8,7 @@
 - 😄 Of course, firstly, you should check my github projects.
 
 ### Connect with me:
-<!--
-[<img align=”left” alt=”devopsbyte.com” width=”22px” src=”" />][website]
--->
-[<img align=”left” alt=”murad- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [website]: https://devopsbyte.com -->
-[linkedin]: https://www.linkedin.com/in/muradtaghiyev05/
+<a href="https://www.linkedin.com/in/muradtaghiyev05/">
+  <img align="left" alt="murad-linkedin" width="22px" src="https://github.com/muradtaghiyev05/muradtaghiyev05/blob/main/linkedin-svgrepo-com.svg" />
+</a>
+
