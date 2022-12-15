@@ -1,5 +1,5 @@
 ### Hi there, I’m Murad 👋
-## I’m a Frontend Developer and Process Engineering Student
+## I’m a Frontend Developer and Process Automation Engineering Student
 
 
 - 🔭 I’m currently working on being an advanced react developer.
