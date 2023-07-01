@@ -2,7 +2,7 @@
 ## I’m a Frontend Developer and Process Automation Engineering Student
 
 
-- 🔭 I’m currently working on being a Professional React Developer.
+- 🔭 I’m currently trying to master modern NextJs.
 - 👯 I’m looking to collaborate on different projects.
 - 💬 If you have any offer, do not hesitate to text me.
 - 😄 Of course, firstly, you should check out my projects.
